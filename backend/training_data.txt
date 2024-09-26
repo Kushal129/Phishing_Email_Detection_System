@@ -1,0 +1,8 @@
+1,You have won a free prize!
+1,Please verify your account!
+0,Hello, how are you?
+1,Your invoice is attached.
+0,Meeting scheduled for tomorrow.
+1,Claim your prize now!
+0,Let's catch up soon.
+1,Your account will be suspended!

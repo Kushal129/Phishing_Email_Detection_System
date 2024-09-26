@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    font-family: "Source Code Pro", monospace;
+    font-optical-sizing: auto;
+}
+
+.textarea {
+    transition: box-shadow 0.2s ease-in-out;
+}
+
+.textarea:focus {
+    box-shadow: 0 0 5px 2px rgba(66, 153, 225, 0.5);
+}
+
+button {
+    transition: background-color 0.3s ease;
+}

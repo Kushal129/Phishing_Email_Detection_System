@@ -1,0 +1,15 @@
+example1@fakemail.com
+test.user@fake-email.com
+user123@fakemail.org
+contact@fake-email.net
+demo@example.com
+john.doe@fakemail.co
+janedoe123@fakeemail.net
+support@fakemail.org
+info@fakemail.com
+user@fakemail.xyz
+testaccount@fake-email.com
+fakeuser123@fakemail.net
+admin@fakemail.io
+random.user@fake-mail.com
+sample@fakemail.com
